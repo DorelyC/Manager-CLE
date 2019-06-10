@@ -1,0 +1,27 @@
+.nav-nav{
+    margin-top: 15px;
+    margin-left: 700px;
+    display:flex;
+    font-size: 17px;
+}
+
+.baner{
+    border-top: 50px;
+    width: 950px;
+    height: 550px;
+    align-items: center;
+}
+
+.tabla-izquierda{
+    width: 150px;
+    height: 600px;
+    background-color: #BEC6C5;
+    color: black;
+    text-decoration-color: black;
+}
+
+.tabla-izquierda a hover{
+    color: black;
+    
+    
+}
